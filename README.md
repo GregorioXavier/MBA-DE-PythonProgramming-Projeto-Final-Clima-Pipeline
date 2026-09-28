@@ -3,6 +3,8 @@
 ## Grupo
 - Leonardo Hasselmann 2602356
 - Lucas Alves de Carvalho 2601908
+- Lucas Gomes Fernandes Alonso 2603004 
+- Lucas Ramos da Siva 2602996
 
 ## Funcionalidade 1 — Novas cidades e sensação térmica
 
